@@ -4,7 +4,7 @@ Comprehensive DevOps guide for beginners! Dive into the world of DevOps with ste
 
 This guide has no specific crowd in mind. If you are not yet technical or work in tech but trying to switch to Devops, this guide is just what you need. 
 
-###Sections
+### Sections
 - Introduction to DevOps
 - Why you should consider learning DevOps
 - Prerequisites / what you need before getting started in DevOps
