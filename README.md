@@ -44,3 +44,17 @@ The reason why most people, even technical people think of DevOps like magic is 
 - [Agile Development](https://www.opentext.com/what-is/agile-development#:~:text=Agile%20development%20is%20a%20broad,short%2C%20time%2Dboxed%20sprints.)
 
 While most of the skills/knowledge mentioned above are things you can master while on the job, be sure to not run through them like a Netflix series. Take your time to understand the videos/articles. If you need extensive knowledge of a particular section and this is not being explained well, it's fine to step out of that tab and search for materials that will help you understand. You can use chatgpt for prompts that will return just the answer you need to clear out the blocks.
+
+### Coding is a MUST
+If you have covered the list mentioned in the previous section, your next goal should be learning a programming language. If you picked DevOps because you don't want to write code, sorry to disappoint you, but you will need to know how to code. The good news is, you will not be a software engineer so you don't need to know how to build a solution but you need to understand and know how to use code to automate the boring and repetitive tasks. AUTOMATION is the main reason you will be getting paid the big bucks. There are a few languages that you could run into in your pursuit of being a DevOps engineer including Python, C#, Javascript / Typescript, Golang, and the list goes on. I recommend 3 - Python, Golang & Bash script. You do not need all 3. Learning one of the first two and the Bash script is enough. If you have never written any line of code before in your life, I'd recommend you stick to Python for your first few months. Bash is something you can easily learn on the job. That said, for the sake of providing content that fits everyone, here are the free resources to use for your learning. 
+
+- [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&t=4528s)
+- [Go Programming ](https://www.youtube.com/watch?v=un6ZyFkqFKo)
+- [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4&t=7s)
+
+
+
+
+
+
+
