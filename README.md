@@ -24,5 +24,23 @@ That said, the videos below are all you need to grasp the theoretical knowledge 
 - [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY&t=1s)
 - [What is DevOps?](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 
-By the time you are done watching the videos above, you will have understood the basics of DevOps. If you have not worked in tech before, it might be hard for you to grasp some of the terminologies, and thats fine. Try to find resources online that explain some of the concepts you did not understand when watching the videos, even further.
+By the time you are done watching the videos above, you will have understood the basics of DevOps. If you have not worked in tech before, it might be hard for you to grasp some of the terminologies, and that's fine. Try to find resources online that explain some of the concepts you did not understand when watching the videos, even further.
 
+## Prerequisites / what you need before getting started in DevOps
+The reason why most people, even technical people think of DevOps like magic is because it involves a lot of moving pieces. However, all of these moving pieces build on top of the foundational technical knowledge and this is what makes the speed of learning DevOps faster for someone who already works as a technical resource in the tech industry, while it might take a bit longer for someone just getting started in tech. While these are prerequisites that you should know, I am not implying that if you don't know them, you should quit. I have added free materials that will get you started in a few weeks.
+
+- [Computer Networking]
+  - [How does the internet work](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+  - [Networking for DevOps – a Complete Guide](https://yourdevopsmentor.com/blog/networking-for-devops-a-complete-guide/)
+- Linux
+  - [What is Linux?](https://www.youtube.com/watch?v=apYYki68s6o)
+  - [Introduction to Linux]([https://www.youtube.com/watch?v=sWbUDq4S6Y8](https://www.youtube.com/watch?v=sWbUDq4S6Y8&t=179s))
+  - [Linux Operating System](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=4759s)
+- Version Control with Git
+  - [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+  - [Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+  - [Git Branches Tutorial](https://www.youtube.com/watch?v=e2IbNHi4uCI)
+- [Software development lifecycle](https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20(SDLC,expectations%20during%20production%20and%20beyond.)
+- [Agile Development](https://www.opentext.com/what-is/agile-development#:~:text=Agile%20development%20is%20a%20broad,short%2C%20time%2Dboxed%20sprints.)
+
+While most of the skills/knowledge mentioned above are things you can master while on the job, be sure to not run through them like a Netflix series. Take your time to understand the videos/articles. If you need extensive knowledge of a particular section and this is not being explained well, it's fine to step out of that tab and search for materials that will help you understand. You can use chatgpt for prompts that will return just the answer you need to clear out the blocks.
