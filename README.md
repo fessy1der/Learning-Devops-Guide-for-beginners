@@ -11,8 +11,7 @@ Lastly, all of the creators I am linking their content here are professionals wh
 ### Sections
 - Introduction to DevOps Theory
 - Prerequisites / what you need before getting started in DevOps
-- DevOps Roadmap
-- Upskilling / Technical Learning
+- DevOps Roadmap / DevOps Tools
 - Bonus Resources
 
 ## Introduction to DevOps Theory
@@ -52,6 +51,24 @@ If you have covered the list mentioned in the previous section, your next goal s
 - [Go Programming ](https://www.youtube.com/watch?v=un6ZyFkqFKo)
 - [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4&t=7s)
 
+## DevOps Roadmap / DevOps Tools
+At this point, I assume you have covered the prerequisites and are ready to move on to the added skills/tools you need to complete your arsenal. Again, there are so many tools you will work with but you need a few of those to get yourself past the door of HR and hopefully shake the hand of your future employer/hiring manager. These tools fit into the buckets below:
+
+- Cloud Knowledge: Most companies now deploy their applications/solutions on the cloud. Granted, you might run into deployments done without the cloud but the number of these cases keeps reducing drastically. There are several cloud providers including Alibaba Cloud, Oracle Cloud Infrastructure, AWS, Azure, GCP, and the list goes on. The last 3 are the main players on the cloud scene and you can't go wrong by choosing any of them and you can always switch easily to another one after you have a solid knowledge of another, however, be sure to check which one has more job listings in your area and which is demanded by the companies you want to work for.
+  - AWS
+    - [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc&t=4466s)
+    - [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=24s)
+  - Azure
+    - [Microsoft Azure Fundamentals Certification Course](https://www.youtube.com/watch?v=5abffC-K40c)
+    - [https://www.youtube.com/watch?v=10PbGbTUSAg](https://www.youtube.com/watch?v=10PbGbTUSAg)
+  - GCP
+    - [Google Cloud Digital Leader Certification Course](https://www.youtube.com/watch?v=UGRDM86MBIQ)
+    - [Google Cloud Associate Cloud Engineer Course](https://www.youtube.com/watch?v=jpno8FSqpc8)
+    
+- Infrastructure as Code
+- Containerisation
+- Monitoring
+- CI/CD
 
 
 
