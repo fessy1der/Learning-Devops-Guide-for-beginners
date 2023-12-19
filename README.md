@@ -12,6 +12,7 @@ Lastly, all of the creators I am linking their content here are professionals wh
 - Introduction to DevOps Theory
 - Prerequisites / what you need before getting started in DevOps
 - DevOps Roadmap / DevOps Tools
+- Recommended Certificates
 - Bonus Resources
 
 ## Introduction to DevOps Theory
@@ -70,7 +71,7 @@ At this point, I assume you have covered the prerequisites and are ready to move
   - [Learn Terraform with Azure by Building a Dev Environment](https://www.youtube.com/watch?v=V53AHWun17s)
   - [Learn Terraform with Google Cloud Platform](https://www.youtube.com/watch?v=VCayKl82Lt8)
 
-  While Terraform is popular and can do most of the job, you might run into vendor-specific tools like AWS's Cloudformation, Azure's ARM templates and GCP Cloud Deployment Manager.
+  While Terraform is popular and can do most of the job, you might run into vendor-specific tools like AWS's Cloudformation, Azure's ARM templates, and GCP Cloud Deployment Manager.
     
 - Containerisation: Containerization is a lightweight and portable form of virtualization that allows applications and their dependencies to be packaged together in a single, standardized unit called a container. These containers can run consistently across different computing environments, providing a level of abstraction that simplifies the deployment, scaling, and management of applications. The most important knowledge you need here is docker & Kubernetes (also written as k8s).
   - [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w&t=2060s)
@@ -83,8 +84,18 @@ At this point, I assume you have covered the prerequisites and are ready to move
   - [GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)](https://www.youtube.com/watch?v=TLB5MY9BBa4)
   - [Azure DevOps: Zero to Hero Tutorial](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 
-
-
+## Bonus Resources
+- Official Documentations: using official documentation is essential for staying informed, building a strong foundation of knowledge, and effectively implementing DevOps practices with accuracy and reliability.
+  - [AWS](https://docs.aws.amazon.com/)
+  - [Azure](https://learn.microsoft.com/en-us/azure/?product=popular)
+  - [GCP](https://cloud.google.com/docs)
+  - [Docker](https://docs.docker.com/)
+  - [Kubernetes](https://kubernetes.io/docs/home/)
+  - [Terraform](https://developer.hashicorp.com/terraform/docs)
+  - [Prometheus](https://prometheus.io/docs/introduction/overview/)
+  - [Grafana](https://grafana.com/docs/)
+- Paid Materials: The purpose of curating these materials is to help anyone get started in Devops with zero financial commitments you heard the saying "Put your money where your mouth is", you might have a few bucks that you want to invest in your learning and by no means, go ahead and do just that. Here is a list of paid resources I think you might need.
+- Community: Joining DevOps communities while learning has several benefits that can significantly enhance your understanding, skills, and overall experience in the field. Here are some key reasons why it is important to be part of DevOps communities during your learning journey
 
 
 
