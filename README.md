@@ -95,6 +95,10 @@ At this point, I assume you have covered the prerequisites and are ready to move
   - [Prometheus](https://prometheus.io/docs/introduction/overview/)
   - [Grafana](https://grafana.com/docs/)
 - Paid Materials: The purpose of curating these materials is to help anyone get started in Devops with zero financial commitments you heard the saying "Put your money where your mouth is", you might have a few bucks that you want to invest in your learning and by no means, go ahead and do just that. Here is a list of paid resources I think you might need.
+  - [Techworld with Nana courses](https://www.techworld-with-nana.com/courses)
+  - [Kodecloud](https://kodekloud.com/)
+  - [Terraform up and running](https://www.amazon.pl/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747/ref=asc_df_1098116747/?tag=plshogostdde-21&linkCode=df0&hvadid=504433705409&hvpos=&hvnetw=g&hvrand=14432001431699217580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011252&hvtargid=pla-1646950848405&psc=1&mcid=d37a74f48c283a12bb02d7a85fd8c1f8)
+  - [Docker deep dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808)
 - Community: Joining DevOps communities while learning has several benefits that can significantly enhance your understanding, skills, and overall experience in the field. Here are some key reasons why it is important to be part of DevOps communities during your learning journey
   - [Cloud Resume Challenge Discord](https://discord.gg/cH3CMw9a)
   - [KodeCloud Community](https://kodekloud.slack.com/join/shared_invite/zt-y26z2ymq-R51jb5KfkZcICD6bTldtYg?_gl=1*aoftnp*_ga*NjExNzUyNTU2LjE3MDI5NzcyMDM.*_ga_LYL47LCHPW*MTcwMjk3NzIwMy4xLjEuMTcwMjk3NzIzMS4zMi4wLjA.#/shared-invite/email)
