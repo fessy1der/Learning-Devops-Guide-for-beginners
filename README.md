@@ -29,7 +29,7 @@ By the time you are done watching the videos above, you will have understood the
 ## Prerequisites / what you need before getting started in DevOps
 The reason why most people, even technical people think of DevOps like magic is because it involves a lot of moving pieces. However, all of these moving pieces build on top of the foundational technical knowledge and this is what makes the speed of learning DevOps faster for someone who already works as a technical resource in the tech industry, while it might take a bit longer for someone just getting started in tech. While these are prerequisites that you should know, I am not implying that if you don't know them, you should quit. I have added free materials that will get you started in a few weeks.
 
-- [Computer Networking]
+- Computer Networking
   - [How does the internet work](https://www.youtube.com/watch?v=zN8YNNHcaZc)
   - [Networking for DevOps – a Complete Guide](https://yourdevopsmentor.com/blog/networking-for-devops-a-complete-guide/)
 - Linux
@@ -96,6 +96,9 @@ At this point, I assume you have covered the prerequisites and are ready to move
   - [Grafana](https://grafana.com/docs/)
 - Paid Materials: The purpose of curating these materials is to help anyone get started in Devops with zero financial commitments you heard the saying "Put your money where your mouth is", you might have a few bucks that you want to invest in your learning and by no means, go ahead and do just that. Here is a list of paid resources I think you might need.
 - Community: Joining DevOps communities while learning has several benefits that can significantly enhance your understanding, skills, and overall experience in the field. Here are some key reasons why it is important to be part of DevOps communities during your learning journey
+  - [Cloud Resume Challenge Discord](https://discord.gg/cH3CMw9a)
+  - [KodeCloud Community](https://kodekloud.slack.com/join/shared_invite/zt-y26z2ymq-R51jb5KfkZcICD6bTldtYg?_gl=1*aoftnp*_ga*NjExNzUyNTU2LjE3MDI5NzcyMDM.*_ga_LYL47LCHPW*MTcwMjk3NzIwMy4xLjEuMTcwMjk3NzIzMS4zMi4wLjA.#/shared-invite/email)
+  - [Devops Lounge](https://discord.gg/xEYaCsnp)
 
 
 
