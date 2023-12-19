@@ -65,10 +65,23 @@ At this point, I assume you have covered the prerequisites and are ready to move
     - [Google Cloud Digital Leader Certification Course](https://www.youtube.com/watch?v=UGRDM86MBIQ)
     - [Google Cloud Associate Cloud Engineer Course](https://www.youtube.com/watch?v=jpno8FSqpc8)
     
-- Infrastructure as Code
-- Containerisation
+- Infrastructure as Code: IaC enables automation of infrastructure provisioning and configuration processes. This reduces the likelihood of human errors and ensures consistency across different environments. Several tools allow you to be able to do this. Terraform is the most popular.
+  - [Complete Terraform Tutorial AWS](https://www.youtube.com/watch?v=OHzZ7KuioMA)
+  - [Learn Terraform with Azure by Building a Dev Environment](https://www.youtube.com/watch?v=V53AHWun17s)
+  - [Learn Terraform with Google Cloud Platform](https://www.youtube.com/watch?v=VCayKl82Lt8)
+
+  While Terraform is popular and can do most of the job, you might run into vendor-specific tools like AWS's Cloudformation, Azure's ARM templates and GCP Cloud Deployment Manager.
+    
+- Containerisation: Containerization is a lightweight and portable form of virtualization that allows applications and their dependencies to be packaged together in a single, standardized unit called a container. These containers can run consistently across different computing environments, providing a level of abstraction that simplifies the deployment, scaling, and management of applications. The most important knowledge you need here is docker & Kubernetes (also written as k8s).
+  - [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w&t=2060s)
+  - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&t=882s)
 - Monitoring
-- CI/CD
+  - [How Prometheus Monitoring works | Prometheus Architecture explained](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+  - [Server Monitoring // Prometheus and Grafana Tutorial](https://www.youtube.com/watch?v=9TJx7QTrTyo)
+- CI/CD: There are three most popular - Gitlab CI, Git Actions & Azure pipelines
+  - [DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS](https://www.youtube.com/watch?v=PGyhBwLyK2U&t=15s)
+  - [GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)](https://www.youtube.com/watch?v=TLB5MY9BBa4)
+  - [Azure DevOps: Zero to Hero Tutorial](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 
 
 
